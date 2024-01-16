@@ -1,0 +1,92 @@
+{
+  "job": "Technology Company",
+  "name": "Scrubgy",
+  "desc": "Cleaning the Future, One Panel at a Time!🫧",
+  "email": "scrubgy.24@gmail.com",
+  "status": "on",
+  "hireMeLink": "",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/Christian-TechUCM/Golden-Valley-Homes/blob/main/Front-End/public/logo512.png?raw=true",
+      "project-name": "Golden Valley Homes",
+      "project-desc": "A fullstack web app for purchasing homes",
+      "project-url": "https://github.com/Christian-TechUCM/Golden-Valley-Homes"
+    },
+    {
+      "project-image-url": "https://github.com/Christian-TechUCM/Fleiss-Kappa/blob/main/Fleiss'kappa/Assets/Icons/profits.png?raw=true",
+      "project-name": "Fleiss' Kappa Calculator",
+      "project-desc": "A Python script that calculates Fleiss' Kappa, a statistical measure of inter-rater agreement, on data from an Excel file.",
+      "project-url": "https://github.com/Christian-TechUCM/Fleiss-Kappa"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/gwhs_ve_scrubgy_24/"
+    }
+  ],
+  "workExperiences": [
+    {
+      "company-name": "",
+      "role": "Scrubgy Robot",
+      "duration": "$850.00",
+      "company-logo-url": "https://select.schoolspecialty.com/images/2096276_A_ecommfullsize.jpg",
+      "description": "As a Digital Strategy Management Intern at The Wonderful Company, I had the privilege of collaborating closely with the esteemed Strategy Management Team, a select group directly overseen by The Wonderful Company's CEO. During my internship, I achieved the following: Designed and developed a real-time dashboard using API endpoints, providing the organization with a powerful tool to visualize significant paper and time savings. This innovation empowered informed decision-making and fostered greater efficiency within the organization. Spearheaded the successful implementation and training of the SafetyChain Quality Management System, resulting in enhanced overall operational efficiency. Conducted comprehensive training sessions to ensure a seamless transition for individuals adapting to the new Quality Management System (QMS). "
+    },
+    {
+      "company-name": "",
+      "role": "SQUEE-G",
+      "duration": "$9.99",
+      "company-logo-url": "https://www.onestrokeinks.com/images/custom/Supplies/Miscellaneous/Squeegees/aluminum_squeegee.jpg",
+      "description": "As the team lead for a six-developer collaboration with Telit Cinterion, a leader in IoT solutions, I oversaw the design and development of a tailored asset tracking admin dashboard for the construction industry. Our project addressed key industry challenges like resource misallocation and operational inefficiencies by enhancing visibility and managing jobsite assets more effectively. Utilizing Telit Cinterion's IoT expertise and end-to-end system approach, we ensured seamless device connectivity. The dashboard featured detailed tool data, precise location tracking, and advanced geofencing capabilities, enabling construction companies to optimize resources and improve operational efficiency. We adhered to high industry standards and environmental requirements using rigorous engineering practices and methodologies, employing front-end and back-end technologies such as React and Firebase. This innovation led our project to achieve second place recognition for its impact on the construction industry."
+    },
+    {
+      "company-name": "",
+      "role": "SWIPE-G",
+      "duration": "$9.99",
+      "company-logo-url": "https://i5.walmartimages.com/asr/1bc13340-5598-4351-956a-a068eac704df.82b2e916e73c92d72fe77cd029811029.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "description": "As a Lead S.A.T.A.L Research Intern and Software Developer at the University of California, Merced, I had a multifaceted role that spanned over three years. My responsibilities included recruiting and training new talent, developing Python scripts for statistical data analysis, and crafting advanced Excel sheets to streamline processes. I played a pivotal role in project implementation, data collection, interpretation, visualization, and management. Additionally, I coordinated with faculty to convey survey and interview insights, led team meetings, and participated in professional development to ensure high-quality data handling. My technical skills in Python and statistics were instrumental in providing actionable feedback to instructors and in contributing to a publication on enhancing the learning experience in introductory biology courses.      "
+    },
+    {
+      "company-name": "",
+      "role": "SWEEP-G",
+      "duration": "$9.99",
+      "company-logo-url": "https://fuller.com/cdn/shop/products/stanely-black-slender-broom-head-compact-and-trim-for-all-floors-broom-accessory_497x497.jpg?v=1596014195."
+    }
+    ,
+    {
+      "company-name": "",
+      "role": "SHOV-G",
+      "duration": "$9.99",
+      "company-logo-url": "https://i5.walmartimages.com/asr/de36e239-8c59-451d-a805-513bac83454e_1.5914cb2450e6e53a9f0f11822b55b5bc.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "description": "During my internship as an Information Technology Engineer, I played a critical role in both hardware troubleshooting and maintenance, ensuring smooth day-to-day operations within the office. I actively contributed innovative ideas aimed at enhancing workplace efficiency. My leadership was instrumental in the implementation of a new Scale-House addition, which significantly accelerated the processing of trailers at the plant. In a notable project, I assisted in developing a server system integrated with RFID scanners. This system was designed to scan trailer IDs, thereby facilitating real-time payment information for farmers per truckload. Additionally, I was responsible for designing the schematics for the server system and the Scale-House addition, showcasing my technical design capabilities."
+    }
+  ],
+  "education": [
+    {
+      "institution-name": "University of California Merced",
+      "degree": "Bachelor of Science",
+      "field-of-study": "Computer Science and Engineering",
+      "graduation-year": "2023",
+      "description": "",
+      "3d-model-url": "/src/assets/ucm.glb",
+      "institution-logo-url": "https://upload.wikimedia.org/wikipedia/en/5/51/UC_Merced_Seal.png"
+    }
+  ],
+  "accomplishments": [
+    {
+      "title": "Research Publication",
+      "year": "2022",
+      "description": "Collaborative Teaching plus (CT+): A Timely, Flexible, and Dynamic Course Design Implemented during Emergency Remote Teaching in an Introductory Biology Course",
+      "url": "https://www.lifescied.org/doi/10.1187/cbe.21-08-0199"
+    },
+    {
+      "title": "Undergraduate Research Opportunities Center (UROC)",
+      "year": "2020",
+      "description": "Students Assessing Teaching And Learning Program",
+      "url": "https://uroc.ucmerced.edu/2020-virtual-research-showcase/christian-urbina-satal"
+    }
+    
+  ]
+
+}
